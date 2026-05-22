@@ -4,7 +4,7 @@
 
 Servidor Público de Carreira. Pós-Graduado em Segurança Pública pela Universidade de Vila Velha — UVV. Backend Python com foco em pipelines de dados, governança e sistemas para o setor público brasileiro.
 
-🌐 **[mouracode.multasgo.com.br](https://mouracode.multasgo.com.br)**
+🌐 **[mouracode.multasgo.com.br](https://mouracode.multasgo.com.br)** · 💼 **[LinkedIn](https://www.linkedin.com/in/rodrigo-moura-38059a237/)**
 
 ---
 
@@ -38,7 +38,6 @@ Servidor Público de Carreira com 10+ anos de experiência operacional. Conhece 
 ## Contato
 
 - 🌐 Site: [mouracode.multasgo.com.br](https://mouracode.multasgo.com.br)
+- 💼 LinkedIn: [linkedin.com/in/rodrigo-moura-38059a237](https://www.linkedin.com/in/rodrigo-moura-38059a237/)
 - 💻 GitHub: [@Rodrigorm33](https://github.com/Rodrigorm33)
 - 📍 Vitória/ES · Brasil
-
-<!-- LinkedIn — adicionar quando confirmado: [linkedin.com/in/rodrigorm-moura](#) -->
